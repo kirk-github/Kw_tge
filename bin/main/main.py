@@ -1,5 +1,11 @@
+#import
 import os
-i=os.system("cls")
 
+#main
+def clear():
+    os.system("cls")
+
+#test
+clear()
 print('hello')
 input()
